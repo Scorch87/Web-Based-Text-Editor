@@ -8,22 +8,17 @@ execute npm run start to initiate the installation scripts. This application has
         
 ## Usage
 'JATE' stands for Just Another Text Editor. This demo illustrates a PWA that takes use of data persistence techniques that serve as redundancy in case a browser is not supported. This application will also function offline.
-<a name="contributing"></a>
+
+# Live Deployment
+## https://ancient-eyrie-07043.herokuapp.com/
         
-## Contributing
-undefined
-<a name="testing"></a>
-        
-## Testing
-N/A## Table of Contents:
+## Table of Contents:
 1. [Installation Instructions](#installation)
         
 2. [Usage](#usage)
-3. [Contributing](#contributing)
-4. [Testing Instructions](#testing)
         
-5. [Questions](#questions)
-6. [Licensing](#license)
+3. [Questions](#questions)
+4. [Licensing](#license)
 <a name="license"></a>
         
 ## License Information
